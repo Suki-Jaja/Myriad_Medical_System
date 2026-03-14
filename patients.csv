@@ -1,0 +1,2 @@
+patientId,firstName,lastName,gender,age,email,phone,address,isRegistered,hasOutstandingBill,password,notifications
+P-C79FD9C9,Ola,Lan,M,29,Ola@mymail.com,09283730282,west,true,false,12345t,true

@@ -1,0 +1,24 @@
+1.need to add walk-in in administrator // fixed : note : did not give password 
+  showed that "Advise patient to create a password during first login."
+one interface only login/reg with welcome (Fixed)
+after log in it will automatically detect admin /patient (Fixed)
+only admin can register clinician (FIxed), cancel appointment 
+reg two option patient/ clinician under admin (FIXED)
+patient can cancel also 
+view offers in last ** we have offers on these things have a look**
+Only patients can register here (fixed)
+Clinicians are registered inside admin section(fixed)
+
+what is not done :
+ 
+Admin :
+2.Generate Final Bill
+3. Report Payment Issues
+4. Send notification
+5. Allocate clinician to treatment
+-- Clinician Menu --
+1. View My Allocations
+2. Record Procedure on Treatment
+3. Update Treatment Status
+Expection is not done 
+check the patients menuuu 
