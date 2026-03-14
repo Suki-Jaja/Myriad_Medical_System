@@ -1,0 +1,38 @@
+.DS_Store
+/.classpath
+/.project
+/.settings/
+/.idea/
+/bin/
+*.class
+*.log
+*.tmp
+*.swp
+# macOS
+.Trashes
+.AppleDouble
+.LSOverride
+# Java
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+
+# IntelliJ
+out/
+
+# Eclipse
+.metadata/
+.recommenders/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
